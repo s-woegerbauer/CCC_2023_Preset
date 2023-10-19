@@ -1,0 +1,15 @@
+D:\CCC_2023_Setup\CCC_2023_Setup\bin\Debug\net6.0\CCC_2023_Setup.exe
+D:\CCC_2023_Setup\CCC_2023_Setup\bin\Debug\net6.0\CCC_2023_Setup.deps.json
+D:\CCC_2023_Setup\CCC_2023_Setup\bin\Debug\net6.0\CCC_2023_Setup.runtimeconfig.json
+D:\CCC_2023_Setup\CCC_2023_Setup\bin\Debug\net6.0\CCC_2023_Setup.dll
+D:\CCC_2023_Setup\CCC_2023_Setup\bin\Debug\net6.0\CCC_2023_Setup.pdb
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.csproj.AssemblyReference.cache
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.AssemblyInfoInputs.cache
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.AssemblyInfo.cs
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.csproj.CoreCompileInputs.cache
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.dll
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\refint\CCC_2023_Setup.dll
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.pdb
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\CCC_2023_Setup.genruntimeconfig.cache
+D:\CCC_2023_Setup\CCC_2023_Setup\obj\Debug\net6.0\ref\CCC_2023_Setup.dll
